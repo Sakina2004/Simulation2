@@ -1,40 +1,31 @@
-﻿@model simulation2.Models.Product
-
-@{
-    ViewData["Title"] = "Create";
-}
-
-<h1>Create</h1>
-
-<h4>Category</h4>
-<hr />
-<div class="row">
-    <div class="col-md-4">
-        <form asp-action="Create">
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <div class="form-group">
-                <label asp-for="Title" class="control-label"></label>
-                <input asp-for="Title" class="form-control" />
-                <span asp-validation-for="Title" class="text-danger"></span>
-         </div>
-            <div class="form-group">
-                <label asp-for="Description" class="control-label"></label>
-                <input asp-for="Description" class="form-control" />
-                <span asp-validation-for="Description" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="ImagePath" class="control-label"></label>
-                <input asp-for="ImagePath" class="form-control" />
-                <span asp-validation-for="ImagePath" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
-            </div>
-        </form>
+﻿
+@model ProductCreateVm
+<form>
+    <div class="form-group">
+        <label for="exampleInputEmail1">Title</label>
+        <input  class="form-control" asp-for="Title"placeholder=" Title-i daxil edin!">
+     <span asp-validation-for="Title" class=" text-danger"></span>
     </div>
-</div>
-
-<div>
-    <a asp-action="Index">Back to List</a>
-</div>
-
+    <div class="form-group">
+        <label for="exampleInputEmail1">Rating</label>
+        <input class="form-control" asp-for="Rating" placeholder=" Rating-i daxil edin!">
+        <span asp-validation-for="Rating" class=" text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="exampleInputEmail1">WatchingViews</label>
+        <input class="form-control" asp-for="WatchingViews" placeholder=" WatchingViews-i daxil edin!">
+        <span asp-validation-for="WatchingViews" class=" text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="exampleInputEmail1">Category</label>
+        <input class="form-control" asp-for="Category" placeholder=" Category-i daxil edin!">
+        <span asp-validation-for="Category" class=" text-danger"></span>
+    </div>
+     <div class="form-group">
+        <label for="exampleInputEmail1">Image</label>
+        <input class="form-control" asp-for="Image">
+        <span asp-validation-for="Image" class=" text-danger"></span>
+    </div>
+  
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
