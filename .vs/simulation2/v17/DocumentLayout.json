@@ -1,109 +1,109 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\",
+  "WorkspaceRootPath": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simizilation2\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|solutionrelative:areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simizilation2\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simulation2\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|solutionrelative:areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simizilation2\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simulation2\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|solutionrelative:areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simulation2\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|solutionrelative:areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ClassTime\\Desktop\\simizilation2\\Migrations\\20250515141848_AddedRatingColumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250515141848_AddedRatingColumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simizilation2\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simulation2\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|solutionrelative:areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simizilation2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simulation2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simizilation2\\viewmodels\\productviewmodels\\productgetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simulation2\\viewmodels\\productviewmodels\\productgetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|solutionrelative:viewmodels\\productviewmodels\\productgetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simizilation2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simulation2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simizilation2\\viewmodels\\productviewmodels\\productcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simulation2\\viewmodels\\productviewmodels\\productcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|solutionrelative:viewmodels\\productviewmodels\\productcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simizilation2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simulation2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simizilation2\\areas\\admin\\views\\dashboard\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simulation2\\areas\\admin\\views\\dashboard\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|solutionrelative:areas\\admin\\views\\dashboard\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simizilation2\\dataaccessslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simulation2\\dataaccessslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|solutionrelative:dataaccessslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simizilation2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simulation2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simizilation2\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simulation2\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|solutionrelative:areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simizilation2\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simulation2\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|solutionrelative:areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simizilation2\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simulation2\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simizilation2\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simulation2\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|solutionrelative:areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simizilation2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simulation2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simizilation2\\simulation2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simulation2\\simulation2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|solutionrelative:simulation2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simizilation2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simulation2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simizilation2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simulation2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simizilation2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simulation2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simizilation2\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simulation2\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|solutionrelative:models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simizilation2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simulation2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simizilation2\\migrations\\20250515062639_createsimulationtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simulation2\\migrations\\20250515062639_createsimulationtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|solutionrelative:migrations\\20250515062639_createsimulationtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|c:\\users\\classtime\\desktop\\simulation2\\migrations\\20250515141848_addedratingcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1203BC06-0C8F-433E-B741-A71FDF00F77B}|simulation2.csproj|solutionrelative:migrations\\20250515141848_addedratingcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -113,262 +113,241 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 25,
               "Title": "20250515141848_AddedRatingColumn.cs",
-              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\Migrations\\20250515141848_AddedRatingColumn.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\Migrations\\20250515141848_AddedRatingColumn.cs",
               "RelativeDocumentMoniker": "Migrations\\20250515141848_AddedRatingColumn.cs",
-              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\Migrations\\20250515141848_AddedRatingColumn.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\Migrations\\20250515141848_AddedRatingColumn.cs",
               "RelativeToolTip": "Migrations\\20250515141848_AddedRatingColumn.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T14:18:48.373Z",
+              "WhenOpened": "2025-05-15T14:18:48.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T11:26:03.941Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T11:26:03.941Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA1wCMAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAtwCgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T11:26:03.941Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProductCreateVm.cs",
-              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\ViewModels\\ProductViewModels\\ProductCreateVm.cs",
-              "RelativeDocumentMoniker": "ViewModels\\ProductViewModels\\ProductCreateVm.cs",
-              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\ViewModels\\ProductViewModels\\ProductCreateVm.cs",
-              "RelativeToolTip": "ViewModels\\ProductViewModels\\ProductCreateVm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T11:26:03.791Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductGetVm.cs",
-              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\ViewModels\\ProductViewModels\\ProductGetVm.cs",
-              "RelativeDocumentMoniker": "ViewModels\\ProductViewModels\\ProductGetVm.cs",
-              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\ViewModels\\ProductViewModels\\ProductGetVm.cs",
-              "RelativeToolTip": "ViewModels\\ProductViewModels\\ProductGetVm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T11:26:03.941Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T11:26:03.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\Areas\\Admin\\Views\\Dashboard\\Create.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Dashboard\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\Areas\\Admin\\Views\\Dashboard\\Create.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Dashboard\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T11:26:03.941Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Models\\Category.cs",
-              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\Models\\Category.cs",
-              "RelativeToolTip": "Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T11:26:03.957Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "ProductCreateVm.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\ViewModels\\ProductViewModels\\ProductCreateVm.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ProductViewModels\\ProductCreateVm.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\ViewModels\\ProductViewModels\\ProductCreateVm.cs",
+              "RelativeToolTip": "ViewModels\\ProductViewModels\\ProductCreateVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T11:26:03.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductGetVm.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\ViewModels\\ProductViewModels\\ProductGetVm.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ProductViewModels\\ProductGetVm.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\ViewModels\\ProductViewModels\\ProductGetVm.cs",
+              "RelativeToolTip": "ViewModels\\ProductViewModels\\ProductGetVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T11:26:03.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T11:26:03.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\Areas\\Admin\\Views\\Dashboard\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Dashboard\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\Areas\\Admin\\Views\\Dashboard\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Dashboard\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T11:26:03.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T11:26:03.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\Properties\\launchSettings.json",
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-15T12:50:58.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T12:50:58.221Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\Areas\\Admin\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\Areas\\Admin\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "Areas\\Admin\\Views\\Product\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T11:26:03.941Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T11:26:03.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\DataAccesssLayer\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccesssLayer\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\DataAccesssLayer\\AppDbContext.cs",
+              "RelativeToolTip": "DataAccesssLayer\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T11:26:03.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T11:26:03.957Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\DataAccesssLayer\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "DataAccesssLayer\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\DataAccesssLayer\\AppDbContext.cs",
-              "RelativeToolTip": "DataAccesssLayer\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAABAAAAAAAAAA==",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T11:26:03.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T11:26:03.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T11:26:04.067Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T11:26:04.067Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Areas\\Admin\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T12:42:29.563Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKMBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T11:26:03.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T11:26:03.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-15T11:26:03.967Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T11:26:03.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T12:42:29.563Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKMBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T11:26:03.941Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T11:26:03.957Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T11:26:03.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-15T11:26:03.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T11:26:03.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T11:26:03.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Microsoft.PackageDependencyResolution.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
@@ -376,86 +355,79 @@
               "RelativeToolTip": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
               "ViewState": "AgIAAPQAAAAAAAAAAAAWwAsBAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-05-15T13:02:55.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T13:02:55.836Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "simulation2.csproj",
-              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\simulation2.csproj",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\simulation2.csproj",
               "RelativeDocumentMoniker": "simulation2.csproj",
-              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\simulation2.csproj",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\simulation2.csproj",
               "RelativeToolTip": "simulation2.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-15T11:26:03.967Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAEIAAAAAAAAAAIBJwAAAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T11:26:03.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T11:26:03.967Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAIBJwAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T11:26:03.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAEQAAAAAAAAAAAArwHkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T11:26:03.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "20250515062639_CreateSimulationTable.cs",
-              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\Migrations\\20250515062639_CreateSimulationTable.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250515062639_CreateSimulationTable.cs",
-              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\Migrations\\20250515062639_CreateSimulationTable.cs",
-              "RelativeToolTip": "Migrations\\20250515062639_CreateSimulationTable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T11:26:03.967Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\Models\\Common\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Models\\Common\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\Models\\Common\\BaseEntity.cs",
-              "RelativeToolTip": "Models\\Common\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T11:26:03.967Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T11:26:03.957Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
+              "Title": "20250515062639_CreateSimulationTable.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\Migrations\\20250515062639_CreateSimulationTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250515062639_CreateSimulationTable.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\Migrations\\20250515062639_CreateSimulationTable.cs",
+              "RelativeToolTip": "Migrations\\20250515062639_CreateSimulationTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T11:26:03.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\Models\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Models\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\Models\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "Models\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T11:26:03.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\simizilation2\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\Simulation2\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T11:26:03.967Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T11:26:03.967Z"
             }
           ]
         }
