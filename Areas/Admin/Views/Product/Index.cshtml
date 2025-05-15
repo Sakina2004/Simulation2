@@ -1,0 +1,33 @@
+﻿@using simulation2.ViewModels.ProductViewModels;
+@model List<ProductGetVm>
+<table class="table ">
+    <div class=" content-header">
+        <h2 class=" content-title">Product List</h2>
+    <a class=" btn btn-success" asp-action="Create" > Create</a>
+     
+    </div>
+    <thead>
+        <tr>
+            <th scope="col">#ID</th>
+            <th scope="col">Title</th>
+            <th scope="col">Description</th>
+            <th scope="col">Image</th>
+            <th colspan="2" class="text-end">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var product in Model)
+        {
+       <tr>
+            <th scope="row">@product.Id</th>
+            <td>@product.Description</td>
+                <td>@product.Title</td>
+            <td><img src="~/images/@product.ImagePath"/></td>
+            <td>
+                <a class=" btn btn-primary" asp-action="Update" asp-route-id="@product.Id">Update</a>
+                <a class="btn btn-danger" asp-action="Delete"asp-route-id="@product.Id"> Delete</a>
+            </td>
+          </tr>
+        }
+    </tbody>
+</table>
